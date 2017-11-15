@@ -1,4 +1,8 @@
-
+/*
+* @author Valanidis Efstathios
+* @literal evalanidis@gmail.com
+* @since 15/11/2017
+* */
 
 public class Terrain {
 
