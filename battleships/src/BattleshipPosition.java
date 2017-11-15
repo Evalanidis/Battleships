@@ -1,3 +1,9 @@
+/*
+* @author Valanidis Efstathios
+* @literal evalanidis@gmail.com
+* @since 15/11/2017
+* */
+
 import java.util.Scanner;
 
 public class BattleshipPosition {
